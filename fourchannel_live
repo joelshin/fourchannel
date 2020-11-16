@@ -12,63 +12,6 @@
         "genreCode": "1:1",
         "genreNameEn": "Digital TV",
         "genreNameTh": "ดิจิตอลทีวี",
-        "order:4",
-        "sub_order:0"
-      },
-      {
-        "channelId": [
-          "301",
-          "302",
-          "303",
-          "304"
-        ],
-        "genreCode": "1:4",
-        "genreNameEn": "Baby items",
-        "genreNameTh": "รายการเด็ก",
-        "order:3",
-        "order:4",
-
-        "sub_order:0" 
-      },
-      {
-        "channelId": [
-          "501",
-          "502",
-          "504",
-          "505"
-        ],
-        "genreCode": "1:5",
-        "genreNameEn": "Documentary",
-        "genreNameTh": "สารคดี",,,,,
-      },
-      {
-        "channelId": [
-          "99",
-          "202",
-          "203",
-          "204"
-        ],
-        "genreCode": "1:6",
-        "genreNameEn": "Entertainment",
-        "genreNameTh": "สารพันบันเทิง"
-      }
-    ]
-  }
-}
-{
-  "returnCode": "S",
-  "data": {
-    "channelList": [
-      {
-        "channelId": [
-          "1",
-          "2",
-          "3",
-          "27"
-        ],
-        "genreCode": "1:1",
-        "genreNameEn": "Digital TV",
-        "genreNameTh": "ดิจิตอลทีวี",
         "main_order":"4",
         "sub_order:0"
       },
