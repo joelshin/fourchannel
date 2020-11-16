@@ -13,7 +13,7 @@
         "genreNameEn": "Digital TV",
         "genreNameTh": "ดิจิตอลทีวี",
         "main_order":"4",
-        "sub_order:0"
+        "sub_order":"0"
       },
       {
         "channelId": [
@@ -26,7 +26,7 @@
         "genreNameEn": "Sport",
         "genreNameTh": "กีฬา",
         "main_order":"3",
-        "sub_order:1" 
+        "sub_order":"1" 
       },
       {
         "channelId": [
@@ -39,7 +39,7 @@
         "genreNameEn": "News",
         "genreNameTh": "ข่าว",
         "main_order":"3",
-        "sub_order:2" 
+        "sub_order":"2" 
       },
       {
         "channelId": [
@@ -52,7 +52,7 @@
         "genreNameEn": "Entertainment",
         "genreNameTh": "สารพันบันเทิง",
         "main_order":"2",
-        "sub_order:0" 
+        "sub_order":"0" 
       },
       {
         "channelId": [
@@ -65,7 +65,7 @@
         "genreNameEn": "Movie and series",
         "genreNameTh": "หนังและซีรีส์",
         "main_order":"1",
-        "sub_order:0" 
+        "sub_order":"0" 
       },
     ]
   }
